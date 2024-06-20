@@ -1,4 +1,2 @@
-
-[Link to File 2](mimo.md)
-
-dsa 
+The author is a college student in Chinese University of Geoscience.
+This repository has just started not long ago.
